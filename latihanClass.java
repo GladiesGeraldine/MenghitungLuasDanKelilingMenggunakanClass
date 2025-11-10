@@ -1,6 +1,6 @@
 public class latihanClass {
     public static void main(String[] args) {
-        Segitiga sgtg=new Segitiga(6,4,5,6,7);
+        Segitiga sgtg=new Segitiga(6,4,6,7);
 
         System.out.println("SEGITIGA");
         System.out.println("Luas: " +sgtg.getLuas());
